@@ -81,18 +81,8 @@ Service / Dependency Injection / Git / GitHub
 
 ## 개발환경 확인
 
-```
-$ java -version
-openjdk version "17.0.18" 2026-01-20 LTS
 
-$ javac -version
-javac 17.0.18
-
-$ git --version
-git version 2.51.0
-```
-
-![개발환경 확인](img/devEn.png)
+![개발환경 확인](./img/devEn.png)
 
 ## CRUD 프로그램 실행 화면
 
