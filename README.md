@@ -86,4 +86,6 @@ Service / Dependency Injection / Git / GitHub
 
 ## CRUD 프로그램 실행 화면
 
-> TODO: 프로그램 실행 후 등록/조회/수정/삭제 콘솔 화면 스크린샷 첨부
+여행 등록(Create) 2건 → 전체 조회(Read) → 단건 조회(Read) → 수정(Update) → 삭제(Delete) → 전체 조회로 결과 확인까지 이어지는 실행 화면입니다.
+
+![CRUD 프로그램 실행 화면](./img/crud_execution.png)
